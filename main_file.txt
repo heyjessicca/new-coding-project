@@ -1,3 +1,7 @@
 Hello this is first git task
 
 This is the new changes in this file
+
+This is the conflict made in conflict-branch
+
+This is the main file
